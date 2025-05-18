@@ -10,8 +10,11 @@
 
 ---
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=radical&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
+<nobr>
+<img height="137px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=radical&locale=cn" />
+<img height="137px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
+</nobr>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yux1azhengye&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
