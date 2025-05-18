@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: cc...
 
 ![yux1azhengye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical)
+![yux1azhengye's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
