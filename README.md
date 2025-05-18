@@ -1,7 +1,6 @@
 ### 👋 Hi, ther
 
-- 💼 I am a cybersecurity researcher, currently working in the Shopee Information Security Team  
-- 🧠 Recently research direction is: **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**  
+- 🧠 I am a cybersecurity researcher, recently research direction is: **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**  
 - 🚀 I will upload some security-related tools I made  
 - 📦 I will also upload some small tools I developed  
 
