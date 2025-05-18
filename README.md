@@ -9,11 +9,8 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=radical" />
 </p>
 
