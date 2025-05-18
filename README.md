@@ -1,4 +1,4 @@
-### 👋 Hi, ther
+### 👋 Hi, there
 
 - 🧠 I was working on : **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**  
 - 🚀 I will upload some security-related tools I made  
