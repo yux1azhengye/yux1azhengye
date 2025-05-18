@@ -10,8 +10,10 @@
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical&card_width=400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=radical&card_width=400" />
 </p>
 
 ---
