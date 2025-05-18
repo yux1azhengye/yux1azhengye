@@ -1,11 +1,11 @@
-### 👋 Hi, I'm yux1azhengye
+### 👋 Hi, ther
 
 - 💼 I am a cybersecurity researcher, currently working in the Shopee Information Security Team  
-- 🧠 My research direction is: **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**  
+- 🧠 Recently research direction is: **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**  
 - 🚀 I will upload some security-related tools I made  
 - 📦 I will also upload some small tools I developed  
 
-🔗 My blog：[xz](https://xz.aliyun.com/users/93506/news)
+🔗 My blog：[xz.aliyun](https://xz.aliyun.com/users/93506/news)
 
 ---
 
