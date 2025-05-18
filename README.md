@@ -21,13 +21,4 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,markdown,html,css,js,bootstrap,ts,cpp,java,py,idea,go,redis,mysql,mongodb,vue,nodejs,linux,docker,github,git,bash,raspberrypi,gitlab,windows,wordpress,stackoverflow,twitter" />
 </p>
-
----
-
-### 📈 My Future
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@yux1azhengye?theme=rule34" />
-</p>
-
 ---
