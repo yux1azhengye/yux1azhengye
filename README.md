@@ -6,6 +6,7 @@
 - 📫 My mail address:yuxiazhengyee@163.com
   
 🔗 My blog：[xz.aliyun](https://xz.aliyun.com/users/93506/news)
+- Recent article: [CVE-2024-4181 run-llama/llama_index-SSE Command Injection分析](https://xz.aliyun.com/news/16025)
 
 ---
 
