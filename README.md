@@ -1,18 +1,11 @@
 ### 👋 Hi, I'm yux1azhengye
 
-- 💼 我目前就职于 Shopee 信息安全团队
-- 🧠 我的研究方向是：**SDLC** / **渗透测试（Pentest）** / **TIMS（威胁情报管理系统）**
-- 🚀 会上传自己做的一些安全相关工具
-- 📦 也会上传自己开发的一些 Java Web 项目
+- 💼 I am a network security engineer, currently working in the Shopee Information Security Team
+- 🧠 My research direction is: **SDLC** / **Penetration Testing (Pentest)** / **TIMS (Threat Intelligence Management System)**
+- 🚀 I will upload some security-related tools I made
+- 📦 I will also upload some small tools I developed
 
-🔗 我的博客地址：[xz](https://xz.aliyun.com/users/93506/news)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=gradient&hide_title=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=gradient&bg_color=0,7FA739,7FDFFF,D783FF&hide_border=true" height="180"/>
-</p>
+🔗 My blog：[xz](https://xz.aliyun.com/users/93506/news)
 
 ---
 
@@ -38,10 +31,6 @@
 
 <p align="center">
   <img src="https://count.getloli.com/get/@yux1azhengye?theme=rule34" />
-</p>
-
-<p align="center">
-  🎉 恭喜您成为第 <b><font color="green">访问编号显示处</font></b> 位访客，感谢您的关注和支持 ~ 💖 有喜欢的项目可以给个 Star ⭐
 </p>
 
 ---
