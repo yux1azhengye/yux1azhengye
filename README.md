@@ -1,6 +1,6 @@
 ### 👋 Hi, there
 
-- 🧠 I was working on : **SDLC** / **Pentest** / **TIMS**  / **code audit**
+- 🧠 I was working on : **SDLC** / **Pentest** / **TIMS**  / **Codeaudit**
 - 🚀 I will upload some security-related tools I made  
 - 📦 I will also upload some small tools I developed  
 
