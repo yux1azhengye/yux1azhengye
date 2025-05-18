@@ -2,7 +2,7 @@
 
 - 🧠 I was working on : **SDLC** / **Pentest** / **TIMS**  / **Codeaudit**
 - 🚀 I will upload some security-related tools I made  
-- 📦 I will also upload some small tools I developed  
+- 📦 I will also upload some small script I developed  
 - 📫 My mail address:yuxiazhengyee@163.com
   
 🔗 My blog：[xz.aliyun](https://xz.aliyun.com/users/93506/news)
