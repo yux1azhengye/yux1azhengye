@@ -10,9 +10,9 @@
 ---
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 0; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical&card_width=1600" style="height: 200px; object-fit: cover; margin: 0; width: 300px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=radical&card_width=400" style="height: 200px; object-fit: cover; margin: 0; width: 300px;" />
+  <div style="display: flex; justify-content: center; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yux1azhengye&show_icons=true&theme=radical" style="flex: 1; max-width: 400px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yux1azhengye&layout=compact&theme=radical" style="flex: 1; max-width: 400px; height: auto;" />
   </div>
 </p>
 <p align="center">
